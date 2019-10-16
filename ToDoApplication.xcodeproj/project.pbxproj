@@ -55,6 +55,7 @@
 		78F4AB71233E130800AA08D6 = {
 			isa = PBXGroup;
 			children = (
+				788AB1302357261000CEFB9C /* todo.gif */,
 				78F4AB7C233E130900AA08D6 /* ToDoApplication */,
 				78F4AB7B233E130900AA08D6 /* Products */,
 			);
@@ -77,7 +78,6 @@
 				78F4AB81233E130900AA08D6 /* Main.storyboard */,
 				78F4AB84233E130B00AA08D6 /* Assets.xcassets */,
 				78F4AB86233E130B00AA08D6 /* LaunchScreen.storyboard */,
-				788AB1302357261000CEFB9C /* todo.gif */,
 				78F4AB89233E130B00AA08D6 /* Info.plist */,
 			);
 			path = ToDoApplication;
